@@ -17,6 +17,8 @@ For more information on how to this works with other frontends/backends, head ov
 
 # Getting started
 
+This is a vue-webgis trial and error for Bappeda Kota Banda Aceh webgis application. I intend to merge it with catalog into one integrated system.
+
 Before contributing please read the following:
 1. [RealWorld guidelines](https://github.com/gothinkster/realworld/tree/master/spec) for implementing a new framework,
 2. [RealWorld frontend instructions](https://github.com/gothinkster/realworld-starter-kit/blob/master/FRONTEND_INSTRUCTIONS.md)
